@@ -1,10 +1,9 @@
 ## Hi there, I am Souham 
 
 ### I'm a Student, Learner, Programmer and a Machine learning Enthusiast
-- 👨🏼‍🎓 I completed my Btech in Information Technology from Institute of Engineering and Management, Kolkata.
-- 😅 I'm currently learing everything I can come across to! 
-- 💻 My area of interest lies in Image processing and Natural Language processing.
-- 👯 I’m looking to get into Machine learning and deep learning research.
+- 👨🏼‍🎓 I have completed my Btech in Information Technology from Institute of Engineering and Management, Kolkata.
+- 😅 I'm currently learning everything I can come across to! 
+- 💻 My area of interest lies in Computer Vision and Natural Language Processing.
 - 🥅 2020 Goals: Contribute and grow more into the DL industry.
 - 📝 I look forward to doing research in the future.
 
