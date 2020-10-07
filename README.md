@@ -2,7 +2,7 @@
 
 ### I'm a Student, Learner, Programmer and a Machine learning Enthusiast
 - 👨🏼‍🎓 I have completed my Btech in Information Technology from Institute of Engineering and Management, Kolkata.
-- 😅 I'm currently learning everything I can come across to! 
+- 😅 I'm currently learning everything I can come across! 
 - 💻 My area of interest lies in Computer Vision and Natural Language Processing.
 - 🥅 2020 Goals: Contribute and grow more into the DL industry.
 - 📝 I look forward to doing research in the future.
